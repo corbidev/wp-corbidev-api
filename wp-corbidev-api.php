@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Corbidev API
  * Description: Gestion d'APIs modulaires avec API REST JSON
- * Version: 1.0.1
+ * Version: 2.0.3
  * Author: Éric Corbisier
  */
 if (!defined('ABSPATH')) {
